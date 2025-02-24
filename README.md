@@ -15,8 +15,7 @@ Retrieval-augmented generation (RAG) using **Azure OpenAI**
 
 1. Clone the repository:
 
-git clone [https://github.com/yourusername/repo-name.git
-cd repo-name](https://github.com/devarpita-dey/Retrieval-Augmented-Generation-RAG-Pipeline-with-FAISS-and-Azure-OpenAI)
+git clone [devarpita-dey/Retrieval-Augmented-Generation-RAG-Pipeline-with-FAISS-and-Azure-OpenAI](https://github.com/devarpita-dey/Retrieval-Augmented-Generation-RAG-Pipeline-with-FAISS-and-Azure-OpenAI)
 
 2. Create a virtual environment and activate it:
 
